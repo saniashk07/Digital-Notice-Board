@@ -1,11 +1,5 @@
 # 📢 MMCOE Digital Notice Board
 
-![PHP](https://img.shields.io/badge/PHP-8.0-777BB4?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-
 A comprehensive digital notice board system for Marathwada Mitra Mandal's College of Engineering (MMCOE) to manage and display college notices, announcements, and events digitally.
 
 ## ✨ Features
@@ -54,9 +48,3 @@ A comprehensive digital notice board system for Marathwada Mitra Mandal's Colleg
 - Apache/Nginx web server
 - XAMPP/WAMP/MAMP (for local development)
 
-## 🛠️ Installation
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourusername/mmcoe-notice-board.git
-cd mmcoe-notice-board
