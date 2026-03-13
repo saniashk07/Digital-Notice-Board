@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swo
+*.swp
+
+# Project specific
+uploads/*
+!uploads/.gitkeep
+config.php
+*.log
+
+# Database credentials (if you have a separate config)
+*.config.php
+.env
+
+# Temporary files
+*.tmp
+*.temp
+/cache/
+/tmp/
